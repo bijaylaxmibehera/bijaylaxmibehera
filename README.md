@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Open source contribution**
 - 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
 
-- 👨‍💻 All of my projects are available at [bijaylaxmi_portfolio](https://bijaylaxmi-behera-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [bijaylaxmi_portfolio](https://bijaylaxmi-behera-portfolio.netlify.app/project.html)
 <!-- - 👨‍💻 All of my projects are available at [https://bijaylaxmi-behera-portfolio.netlify.app/](https://bijaylaxmi-behera-portfolio.netlify.app/) -->
 
 - 📫 How to reach me **bijaylaxmi1711@gmail.com**
