@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bijaylaxmibehera&label=Profile%20views&color=0e75b6&style=flat" alt="bijaylaxmibehera" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bijaylaxmibehera" alt="bijaylaxmibehera" /></a> </p> -->
-- 🔭 I'm a MSc passout **student**
+- 🔭 I'm a recent postgraduate from **MSCB University**
 - 💻 I'm currently working on **web development**
 - 🌱 I’m currently learning **Open source contribution**
 - 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
